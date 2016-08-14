@@ -1,6 +1,6 @@
-************************************************
-Hibou - Timesheet Attendance on Payroll Payslips
-************************************************
+*****************************************************
+Hibou - Odoo Timesheet Attendance on Payroll Payslips
+*****************************************************
 
 Provides worked days and hours line on Payslip based on employee timesheet attendances.
 
